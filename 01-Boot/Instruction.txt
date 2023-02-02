@@ -1,0 +1,2 @@
+To Compile: nasm -f bin Filename.asm -o Filename.bin
+To Run using qemu: qemu-system-x86_64 Filename.bin
