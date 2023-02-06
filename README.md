@@ -12,6 +12,6 @@ FxOS relies on the following:
 
 | Technologies     |
 | ---              | 
-| ![qemu]          | 
-| ![nasm]          | 
-| ![Assembly]      | 
+| qemu             | 
+| nasm             | 
+| Assembly         | 
