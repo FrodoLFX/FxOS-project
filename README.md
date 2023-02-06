@@ -11,7 +11,7 @@ This is a Personal project about operating system started on Feb 2, 2023.
 FxOS relies on the following:
 
 | Technologies     |
-| ---:             | 
+| ---              | 
 | ![qemu]          | 
 | ![nasm]          | 
 | ![Assembly]      | 
