@@ -1,6 +1,9 @@
 # FxOS
 <a name="readme-top"></a>
 
+<!-- PROJECT SHIELDS -->
+[![MIT License][license-shield]][license-url]
+
 <!-- ABOUT THE PROJECT -->
 ## About FxOS
 FxOS stands for "Fx Operating system"
